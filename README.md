@@ -11,6 +11,12 @@ The dashboard helps HR leaders and management monitor hiring, attrition, and wor
 
 ---
 
+## Dashboard Preview
+
+https://github.com/94vksaini-dotcom/HR-Headcount-Dashboard/blob/main/HR_Headcount_Dashboard_GIF.gif
+
+---
+
 ## 🎯 Business Objective
 
 Organizations need clear visibility into workforce changes to manage hiring plans, retention strategies, and organizational growth.
