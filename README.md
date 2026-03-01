@@ -99,5 +99,5 @@ Slicers available for:
 ---
 
 ## 👨‍💻 Author
-Vinod Kumar
-HR Data Analyst
+* Vinod Kumar
+* HR Data Analyst
