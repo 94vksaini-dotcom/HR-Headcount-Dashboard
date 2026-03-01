@@ -13,7 +13,7 @@ The dashboard helps HR leaders and management monitor hiring, attrition, and wor
 
 ## Dashboard Preview
 
-https://github.com/94vksaini-dotcom/HR-Headcount-Dashboard/blob/main/HR_Headcount_Dashboard_GIF.gif
+![HR_Headcount_Dashboard](https://github.com/94vksaini-dotcom/HR-Headcount-Dashboard/blob/main/HR_Headcount_Dashboard_GIF.gif)
 
 ---
 
