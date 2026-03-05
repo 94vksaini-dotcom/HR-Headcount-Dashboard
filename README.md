@@ -17,20 +17,6 @@ The dashboard helps HR leaders and management monitor hiring, attrition, and wor
 
 ---
 
-## 🎯 Business Objective
-
-Organizations need clear visibility into workforce changes to manage hiring plans, retention strategies, and organizational growth.
-
-This dashboard answers key HR questions:
-
-* How is headcount changing over time?
-* Which departments have the highest employees?
-* What is the attrition vs hiring trend?
-* How does workforce vary by location and gender?
-* What is monthly and yearly headcount growth?
-
----
-
 ## 📈 Key KPIs
 
 * Total Employees
